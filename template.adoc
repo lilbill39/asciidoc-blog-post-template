@@ -1,0 +1,25 @@
+= AsciiDoc blog post template for WordPress
+
+== Keyword research
+|===
+| Term | KD | Volume | Updated | Used
+| keyword | 4 | 450 | 3 days | ✓
+|===
+
+== Outline
+
+* Outline content here
+** With structure
+
+== Actions/review
+
+- [ ] Link pass. Link other posts and useful external resources
+- [ ] Check for and add keywords
+- [ ] Editorial pass
+- [ ] Proofread
+- [ ] Mark out image locations
+- [ ] Transfer to WordPress
+
+== Post
+
+Write post here. AsciiDoc headings map nicely to WP. `== Is an H2` and  `=== Is an H3` and so on. When finished, push to github, copy-from the rendered view on github, and paste into the WP editor. Links, sections, paragraphs, lists all work brilliantly.

@@ -1,2 +1,3 @@
 # asciidoc-blog-post-template
-A working AsciiDoc template I use when writing blog posts
+
+This repo contains a working AsciiDoc template I use when writing blog posts. Feel free to take this and use it as you please.
