@@ -23,3 +23,12 @@
 == Post
 
 Write post here. AsciiDoc headings map nicely to WP. `== Is an H2` and  `=== Is an H3` and so on. When finished, push to github, copy-from the rendered view on github, and paste into the WP editor. Links, sections, paragraphs, lists all work brilliantly.
+
+== This heading becomes an H2
+
+Add some content here. You can add a https://thetravelingsomething.com[link to your site].
+
+=== This heading becomes an H3
+
+* Lists work
+* as well
