@@ -26,7 +26,7 @@ Write post here. Rendered AsciiDoc HTML documents map nicely to WP. When finishe
 
 == This heading becomes an H2
 
-Add some content here. You can add a https://thetravelingsomething.com[link to your site].
+Add some content here. Here's a https://thetravelingsomething.com[link to our blog].
 
 === This heading becomes an H3
 
